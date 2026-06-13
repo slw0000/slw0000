@@ -48,7 +48,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [NeuroForge](https://github.com/slw0000/NeuroForge) | Neural network library with backpropagation from scratch | C++ |
+| [NeuroForge](https://github.com/slw0000/NeuroForge) | Neural network library with backpropagation from scratch | C++, pybind11 |
+| [FastApi ML Scoring](https://github.com/slw0000/FastAPI-Credit-Scoring) | ML credit scoring service with CI/CD and Docker orchestration | Python, FastAPI, sklearn, Docker,  |
 | [PDF to Markdown Pipeline](https://github.com/slw0000/hackathon_pdf_2_md) | Hackathon project: intelligent PDF to Markdown converter | Python, Docling, Qwen2-VL, YOLO |
 
 ---
